@@ -22,8 +22,9 @@ function App() {
       <Route  path='/career'Component={Career}/>
       <Route  path='/Pitch'Component={Pitch}/>
      </Routes>
+     <Footer/>
      </BrowserRouter>
-      <Footer/>
+      
       
     </div>
   );
