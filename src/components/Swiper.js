@@ -35,7 +35,7 @@ export default () => {
             className=" w-full md:h-[700px] object-cover"
           />
           <div className="absolute max-w-[1300px] mx-auto md:left-[8%] top-1/2 -translate-y-1/2 p-6 text-white">
-            <h2 className="md:text-4xl font-bold text-xl mb-2 uppercase">Fueling Innovation, <br />Empowering <br />Tomorrow</h2>
+            <h2 className="md:text-4xl font-bold text-xl mb-2">Fueling Innovation, <br />Empowering <br />Tomorrow</h2>
             {/* <a href='/Pitch'>
             <button className='bg-[#0F4769] hover:bg-orange-700 text-white font-bold py-2 px-4 rounded mt-3 uppercase'>contact us</button>
             </a> */}
